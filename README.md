@@ -2,6 +2,7 @@
 
 # LAB | SQL Subqueries
 
+
 <details>
   <summary>
    <h2>Learning Goals</h2>
